@@ -1,6 +1,8 @@
 SIMPLE ATTENDANCE SYSTEM - USER GUIDE
 ====================================
-
+GROUP 53 MEMBERS
+-HARERIMANA Marcellin 
+-SHEMA Parfait
 BEFORE YOU START
 ---------------
 To use this system, you need to install these first:
